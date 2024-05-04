@@ -1,0 +1,7 @@
+Log in as administrator:
+  Username: kubeadmin
+  Password: 7qF4r-sCqDQ-5w7tx-ubru6
+
+Log in as user:
+  Username: developer
+  Password: developer
